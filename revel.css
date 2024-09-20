@@ -1,23 +1,19 @@
 @font-face {
   font-family: "Saans Medium";
-  src:
-url("https://github.com/graykwise/revel/blob/4b01a7b5ecfa39b22ed2c29d3d67892298ebf4e2/SaansMedium.woff"),
-format("woff");
+  src: url("https://raw.githubusercontent.com/graykwise/revel/main/SaansMedium.woff") format("woff");
 }
 
 @font-face {
   font-family: "GT Pressura Light";
-  src:
-url("https://github.com/graykwise/revel/blob/a87bb00572e9a4d595a310f8d88ce021b690d471/GT-Pressura-Standard-Light.woff"),
-format("woff");
+  src: url("https://raw.githubusercontent.com/graykwise/revel/main/GT-Pressura-Standard-Light.woff") format("woff");
 }
 
 h1 {
   font-family: "Saans Medium";
   text-transform: uppercase; 
-};
+}
 
 p {
   font-family: "GT Pressura Light";
-  text-transform: uppercase; 
+  text-transform: uppercase;
 }
