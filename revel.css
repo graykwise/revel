@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Saans Medium";
-  src: url("https://raw.githubusercontent.com/graykwise/revel/main/SaansMedium.woff") format("woff");
+  src: url("https://raw.githubusercontent.com/graykwise/revel/main/SaansMedium.woff"), format("woff");
 }
 
 @font-face {
   font-family: "GT Pressura Light";
-  src: url("https://raw.githubusercontent.com/graykwise/revel/main/GT-Pressura-Standard-Light.woff") format("woff");
+  src: url("https://raw.githubusercontent.com/graykwise/revel/main/GT-Pressura-Standard-Light.woff"), format("woff");
 }
 
 h1 {
