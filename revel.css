@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Saans Medium";
+  src:
+url("https://static1.squarespace.com/static/66292bac059486240b92a5c0/t/66ed9d6e720e0358ef7ba6fa/1726848366835/SaansMedium.woff"),
+format("woff");
+}
+
+@font-face {
+  font-family: "GT Pressura Light";
+  src:
+url("https://static1.squarespace.com/static/66292bac059486240b92a5c0/t/66ed9d6aa4820b5d2e612ec2/1726848362688/GT-Pressura-Standard-Light.woff"),
+format("woff");
+}
+
+h1 {
+  font-family: "Saans Medium";
+  text-transform: uppercase; 
+};
+
+p {
+  font-family: "GT Pressura Light";
+  text-transform: uppercase; 
+}
